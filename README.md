@@ -26,4 +26,10 @@
 ## Contacto
 
 - 📫 Puedes contactarme en arielsaucedo.dev@gmail.com
-- 💼 Conecta conmigo en LinkedIn
+- 🌐 Visita mi [sitio web](https://www.arielsaucedo.com.ar)
+- 📱 Sígueme en [Instagram](https://www.instagram.com/asaucedo.dev/)
+- 💼 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/oscar-ariel-saucedo/)
+
+```
+"Estamos aqui para dejar una marca en el universo"
+```
