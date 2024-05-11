@@ -1,35 +1,45 @@
-# Hola, soy Oscar Ariel Saucedo 👋
+# Hello, I'm Oscar Ariel Saucedo 👋
 
-## Sobre mí
+## About me
 
-👨‍💻 Soy un desarrollador web apasionado por las tecnologías modernas como Javascript, React, Next.js y React Native.
+👨‍💻 I am a web developer passionate about modern technologies such as Javascript, React, Next.js and React Native.
 
-🌱 Actualmente estoy trabajando en varios proyectos en modo freelance, como asi busco colaborar con otros desarrolladores.
+🌱 I am currently working on several projects as a freelancer, as well as working as a Frondend Developer for the Hipotecario Seguros company.
 
-## Mis Proyectos
+## Skills
 
-- Jime Agorreca Web - Sitio web de la experta en publicidad online Jimena Agorreca. Proyecto realizado en NextJs, API Rest en NodeJS y Express, base de datos con MongoDB. Implementación de Mercado Pago y PayPal. (proximamente estará online)
+**Frontend**
 
-- MarisaBru Artesanas - Catálogo digital de la marca MarisaBru Artesanas con su administrador de contenido. Proyecto desarrollado en NextJs, backend en NodeJs y base de datos en MongoDB.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- Analizate Virtual - Sitio web de Analizate Virtual. Proyecto realizado en Astro, con integración de formularios de contacto.
+**Backend**
 
-- Nacho Fernandez Herrero - Sitio web del canta/autor Nacho Fernandez Herrero. Proyecto realizado en Astro, con integración de formularios de contacto y reproductor de audio en React.
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-## Habilidades
+**Database**
 
-- **Frontend**: React, Next.js, React Native
-- **Backend**: Node.js, Express
-- **Base de Datos**: MongoDB con Mongoose, MySQL
-- **Diseño**: Experiencia en diseño UX/UI
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Moongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
-## Contacto
+## Contact me
 
-- 📫 Puedes contactarme en arielsaucedo.dev@gmail.com
-- 🌐 Visita mi [sitio web](https://www.arielsaucedo.com.ar)
-- 📱 Sígueme en [Instagram](https://www.instagram.com/asaucedo.dev/)
-- 💼 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/oscar-ariel-saucedo/)
+- 📫 You can contact me at arielsaucedo.dev@gmail.com
+- 🌐 Visit my [website](https://www.arielsaucedo.com.ar)
+- 📱 Follow me [Instagram](https://www.instagram.com/asaucedo.dev/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oscar-ariel-saucedo/)
 
 ```
-"Estamos aqui para dejar una marca en el universo"
+"We are here to leave a mark on the universe."
 ```
